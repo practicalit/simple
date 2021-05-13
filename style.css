@@ -9,3 +9,11 @@ p {
     color: rgb(6, 87, 6);
     font-weight: bold;
 }
+.make-format {
+    /*text-decoration: underline;*/
+    border-bottom: 2px black solid;
+}
+.make-format:hover{
+    /*color: red;*/
+    /*cursor: pointer;*/
+}
