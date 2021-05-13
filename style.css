@@ -1,8 +1,11 @@
 h1 {
-    color: blue;
+    color: rgb(20, 20, 59);
+}
+body {
+    text-align: center;
 }
 p {
     font-size: 20px;
-    color: green;
+    color: rgb(6, 87, 6);
     font-weight: bold;
 }
