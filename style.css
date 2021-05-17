@@ -6,6 +6,10 @@ h1 {
     text-decoration: underline yellow;
 }
 
+.feedback {
+    text-decoration: underline blueviolet;
+}
+
 body {
     text-align: center;
 }
